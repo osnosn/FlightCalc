@@ -8,3 +8,4 @@ A backup for [飞行计算器 FlightCalc](https://fxb.cs-air.com/flightcalc/)
 
 -----
 ## [下载安装](https://github.com/osnosn/FlightCalc/releases)
+-----
