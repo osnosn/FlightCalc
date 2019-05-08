@@ -7,3 +7,4 @@ A backup for [飞行计算器 FlightCalc](https://fxb.cs-air.com/flightcalc/)
 * 2019-04-26.        
 
 -----
+## [下载安装](https://github.com/osnosn/FlightCalc/releases)
