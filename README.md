@@ -8,4 +8,8 @@ Backup for [飞行计算器 FlightCalc](https://fxb.cs-air.com/flightcalc/)
 
 -----
 ## [下载安装](https://github.com/osnosn/FlightCalc/releases)
+* 手动获取注册码: [Manualy get Registration Code](https://fxb.cs-air.com/flightcalc/webreg.php?a=flt:apk)   
+* 备用链接: [Alternative link for the registration code](https://www.bestpilot.net/FlightCalc/webreg.php?a=flt:apk)
+-----
+
 -----
