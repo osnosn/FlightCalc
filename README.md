@@ -13,6 +13,9 @@ Backup for [飞行计算器 FlightCalc](https://fxb.csair.com/flightcalc/)
 * Windows EXE: [FlightCalculator-2.3.7-Win32.exe](https://github.com/osnosn/FlightCalc/releases/download/Backup-201904/FlightCalculator-2.3.7-Win32.exe)
 * 手动获取注册码: [Manualy get Registration Code](https://fxb.csair.com/flightcalc/webreg.php?a=flt:apk)   
 * 备用链接: [Alternative link for the registration code](https://www.bestpilot.net/FlightCalc/webreg.php?a=flt:apk)
+
 -----
+## [说明文档](https://mpvms.dynv6.net:4431/flightcalc/)
+* 2021-05
 
 -----
