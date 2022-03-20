@@ -17,5 +17,6 @@ Backup for [飞行计算器 FlightCalc](https://fxb.csair.com/flightcalc/)
 -----
 ## [说明文档](https://mpvms.dynv6.net:4431/flightcalc/)
 * 2021-05
+* [说明文档2](https://gitee.com/osnosn/FlightCalc/blob/main/Document/README.md)
 
 -----
