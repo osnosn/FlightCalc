@@ -9,7 +9,7 @@ Backup for [飞行计算器 FlightCalc](https://fxb.csair.com/flightcalc/)
 -----
 ## [下载安装](https://github.com/osnosn/FlightCalc/releases)
 * iPhone/iPad: [AppStore](https://itunes.apple.com/cn/app/id975103773?mt=8)
-* Android: [FlightCalc-1.5.1-Android.apk](https://github.com/osnosn/FlightCalc/releases/download/Backup-201904/FlightCalc-1.5.1-Android.apk)
+* Android: [FlightCalc-1.5.3-Android.apk](https://github.com/osnosn/FlightCalc/releases/download/v1.5.3/FlightCalc-1.5.3.apk)
 * Windows EXE: [FlightCalculator-2.3.7-Win32.exe](https://github.com/osnosn/FlightCalc/releases/download/Backup-201904/FlightCalculator-2.3.7-Win32.exe)
 * 手动获取注册码: [Manualy get Registration Code](https://fxb.csair.com/flightcalc/webreg.php?a=flt:apk)   
 * 备用链接: [Alternative link for the registration code](https://www.bestpilot.net/FlightCalc/webreg.php?a=flt:apk)
